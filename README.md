@@ -12,5 +12,10 @@ You'll see that there are a few errors with the code. I haven't been able to fig
 ## Links
 [Heroku](https://mighty-castle-01544.herokuapp.com/)
 
+## Screenshots
+[VSC Error](./public/VSCError.png)
+[StackOverflow](./public/StackOverflowError.jpg)
+[HerokuError](./public/error.jpg)
+
 ## Contact
 Feel free to contact me with any recommendations at franklin.c.brown@gmail.com. See if you can fix the errors!
